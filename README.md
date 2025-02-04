@@ -5,7 +5,7 @@ but Made to Have More Features and Accesbility than Docs.**
 1. 🟢 Code Integration
 2. 🟢 Easy Image Integration
 3. 🟢 Custom Emojis / Bullet Points
-4. 🟢 Email Capability
+4. 🟢 Email Capability | Still Being Worked On
 5. 🟢 Theme Toggles
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 **Future Features to be Added:**
@@ -16,3 +16,5 @@ but Made to Have More Features and Accesbility than Docs.**
 **For Contact Inquires Message Me Either on Telegram or Email:**
 1. Email: ketagod666@proton.me
 2. Telegram: https://t.me/KetaGod 
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+**Make Sure to Install the Requirements if You Don't Already Have them Installed**
