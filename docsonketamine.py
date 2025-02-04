@@ -123,7 +123,7 @@ class DocsOnKetamine(QMainWindow):
 
     def make_bold(self):
         fmt = QTextCharFormat()
-        fmt.setFontWeight(QFont.bold)
+        fmt.setFontWeight(QFont.Bold)
         self.text_edit.textCursor().mergeCharFormat(fmt)
 
     def make_italic(self):
