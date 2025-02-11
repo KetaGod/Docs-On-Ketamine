@@ -18,5 +18,5 @@ but Made to Have More Features and Accesbility than Docs.**
 2. Telegram: https://t.me/KetaGod 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 **Make Sure to Install the Requirements if You Don't Already Have them Installed**
-**If Your're Going to Build the EXE Yourself, Use the Following Command:**
+**If You're Going to Build the EXE Yourself, Use the Following Command:**
 pyinstaller --onefile --noconsole --icon=snoopa.ico --add-data "snoopa.ico;." docsonketaminev2.py
